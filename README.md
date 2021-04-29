@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently studying for AWS Cloud Practitioner Exam
 
 <!--
 **jinlee487/jinlee487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
