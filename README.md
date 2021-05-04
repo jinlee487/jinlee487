@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 Passed my AWS Cloud Practitioner Exam today! :) 
+- 🌱 Preparing for the KakaoTalk Internship Coding Test for this Saturday! 
 
 <!--
 **jinlee487/jinlee487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
