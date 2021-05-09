@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 Preparing for the KakaoTalk Internship Coding Test for this Saturday! 
+- 🌱 I’m currently learning R and studying for the ADSP exam which is in two weeks!
 
 <!--
 **jinlee487/jinlee487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
