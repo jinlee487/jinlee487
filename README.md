@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning R and studying for the ADSP exam which is in two weeks!
+- 🌱 I’m currently learning R and studying for the ADSP exam which is this weekend!
 
 <!--
 **jinlee487/jinlee487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
