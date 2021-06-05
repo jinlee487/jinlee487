@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 * 👩‍🎓 2018.12 Gradated from University of Wisconsin Madison with a BS in Economics
 * 🌱 2019.05 Worked at Forward Health Group, Inc. as a data analyst intern
-* ✍ 2020.09 자바 웹 프로그래밍 국비 지원 과정 수료
+* ✍ 2020.09 자바 웹 프로그래밍 6 개월 국비 지원 과정 수료
 * 🏙 2020.10 젠틀리스트 스타트업 풀 스택 개발자 입사
 
 <br>
