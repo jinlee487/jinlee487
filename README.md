@@ -59,7 +59,7 @@ Here are some ideas to get you started:
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
             </td>
           <td><a href="#"><img alt="Php" title="Php" height="28px"
-                        src="https://user-images.githubusercontent.com/46912607/120892068-4b1b7380-c647-11eb-9d9e-8d37e4fbebbc.png" /></a>
+                        src="https://user-images.githubusercontent.com/46912607/120892280-7ce10a00-c648-11eb-92c4-268ca037ba07.gif" /></a>
             </td>
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
