@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 📖 About me
 
-* 👨‍🎓 2018.12 Gradated from University of Wisconsin Madison with a BS in Economics
+* 👨‍🎓 2018.12 Graduated from University of Wisconsin Madison with a BS in Economics
 * 🌱 2019.05 Worked at Forward Health Group, Inc. as a data analyst intern
 * ✍ 2020.09 자바 웹 프로그래밍 6 개월 국비 지원 과정 수료
 * 🏙 2020.10 패션 IT 스타트업 젠틀리스트 회사에 풀 스택 개발자 입사
