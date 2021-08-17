@@ -86,12 +86,11 @@ Here are some ideas to get you started:
 ## 📫 Contacts 
 
 * Email: jinwoolee131@gmail.com
+* Resume: https://jinlee487.github.io/resume/
 
   <div align=center>
   
   [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://jinlee487.github.io/) 
   </div>
-  <div align=center>
-  [My Resume](https://jinlee487.github.io/resume/)
-  </div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
