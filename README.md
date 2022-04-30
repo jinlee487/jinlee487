@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 * ✍ 2020.09 자바 웹 프로그래밍 6 개월 국비 지원 과정 수료
 * 🏙 2020.10 패션 IT 스타트업 젠틀리스트 회사에 풀 스택 개발자로 입사
 * 🏫 2021.06 AIFFEL X SOCAR 인공지능 개발자 양성과정 진행중
+* 🏫 2021.09 Drexel University Master in Computer Science
+* 💻 2022.06 Software Engineer at Lula
 
 <br>
 
