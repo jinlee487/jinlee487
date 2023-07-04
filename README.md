@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There%20👋&fontSize=45&&fontAlignY=30)
 
-안녕하세요 . 개발자로 취뽀하고 싶은 이진우 입니다.
+Hello, I am a new grad software developer. 
 
 ## 📖 About me
 
